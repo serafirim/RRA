@@ -1,0 +1,2 @@
+## RRA, React Redux Auth w/ Theming
+My code that I wrote after learning from [a post](https://www.bezkoder.com/react-hooks-redux-login-registration-example/) about handling authentication. I did this so that I could gain a better understanding of authentication using React. There is also a Theme switching functionality learned from [this post here](https://dev.to/holdmypotion/react-theme-switcher-5d2a). I need to understand this as it will help with the [MERNStackStarter](https://github.com/serafirim/MERNStackStarter) project.
